@@ -1,0 +1,5 @@
+#!/bin/bash
+echo Hello, World
+[B[1;5A[1;5C[1;5C[1;5C[1;5C[1;5C"Hello, World"
+
+
